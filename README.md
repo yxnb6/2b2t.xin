@@ -1,1 +1,9 @@
 # 2b2t.xin
+分享一下haek简单补齐了映射如import net.minecraft.class_124;
+import net.minecraft.class_1291;
+import net.minecraft.class_1293;
+import net.minecraft.class_1657;
+import net.minecraft.class_1937;
+import net.minecraft.class_332;
+import net.minecraft.class_408;
+import net.minecraft.class_640;的
