@@ -1,5 +1,5 @@
 # 2b2t.xin
-分享一下haek简单补齐了映射如import net.minecraft.class_124;
+分享一下hack简单补齐了映射如import net.minecraft.class_124;
 import net.minecraft.class_1291;
 import net.minecraft.class_1293;
 import net.minecraft.class_1657;
